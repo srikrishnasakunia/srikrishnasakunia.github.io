@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lav.referraldemo",
+    "sha256_cert_fingerprints":
+    ["07:25:D1:91:02:23:C8:41:BA:3C:25:18:C4:2D:44:C4:AA:EE:06:45:03:98:C6:D8:20:A8:3D:52:BA:74:11:4F"]
+  }
+}]
