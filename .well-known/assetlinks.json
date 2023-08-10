@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.lav.referraldemo",
     "sha256_cert_fingerprints":
-    ["07:25:D1:91:02:23:C8:41:BA:3C:25:18:C4:2D:44:C4:AA:EE:06:45:03:98:C6:D8:20:A8:3D:52:BA:74:11:4F"]
+    ["07:25:D1:91:02:23:C8:41:BA:3C:25:18:C4:2D:44:C4:AA:EE:06:45:03:98:C6:D8:20:A8:3D:52:BA:74:11:4F",
+      "06:AC:5B:A4:37:2C:9B:43:B5:AA:F1:10:A6:2C:4D:79:E3:3B:2B:A6:C7:D3:CA:3E:8A:F3:E4:C0:27:7D:CF:F7"]
   }
 }]
